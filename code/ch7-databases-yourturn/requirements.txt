@@ -8,3 +8,7 @@ git+https://github.com/mikeckennedy/fastapi-chameleon
 starlette~=0.13.6
 
 SQLAlchemy~=1.4.12
+progressbar2
+python-dateutil
+passlib
+aiosqlite==0.17.0
